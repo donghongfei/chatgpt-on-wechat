@@ -16,6 +16,7 @@ itchat.pkl
 *.log
 user_datas.pkl
 chatgpt_tool_hub/
+myenv/
 plugins/**/
 !plugins/bdunit
 !plugins/dungeon
@@ -27,6 +28,7 @@ plugins/**/
 plugins/banwords/__pycache__
 plugins/banwords/lib/__pycache__
 !plugins/hello
+!read_copilot
 !plugins/role
 !plugins/keyword
 !plugins/linkai
