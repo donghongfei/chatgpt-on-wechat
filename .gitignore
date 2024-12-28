@@ -29,6 +29,7 @@ plugins/banwords/__pycache__
 plugins/banwords/lib/__pycache__
 !plugins/hello
 !read_copilot
+!n8n
 !plugins/role
 !plugins/keyword
 !plugins/linkai
