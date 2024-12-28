@@ -1,0 +1,48 @@
+{
+  "plugins": {
+    "Godcmd": {
+      "enabled": false,
+      "priority": 999
+    },
+    "Keyword": {
+      "enabled": false,
+      "priority": 900
+    },
+    "Banwords": {
+      "enabled": false,
+      "priority": 100
+    },
+    "linkai": {
+      "enabled": false,
+      "priority": 99
+    },
+    "Role": {
+      "enabled": false,
+      "priority": 0
+    },
+    "Dungeon": {
+      "enabled": false,
+      "priority": 0
+    },
+    "BDunit": {
+      "enabled": false,
+      "priority": 0
+    },
+    "ReadCopilot": {
+      "enabled": false,
+      "priority": -1
+    },
+    "N8N": {
+      "enabled": true,
+      "priority": -1
+    },
+    "Hello": {
+      "enabled": false,
+      "priority": -1
+    },
+    "Finish": {
+      "enabled": false,
+      "priority": -999
+    }
+  }
+}
